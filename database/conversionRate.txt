@@ -1,0 +1,2 @@
+Date,Rate,From,To,Amount,Result,Admin
+2024-09-11,10.0,USD,AUD,100.0,1000.00,1
