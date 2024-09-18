@@ -1,5 +1,3 @@
-# Vinit_Lab15_Group03_Assignment1
-
 ## Features
 
 Initially, the program asks the user to choose between normal user or admin user option.
